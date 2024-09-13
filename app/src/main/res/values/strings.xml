@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">MD3-example</string>
     <string name="introduction">App Introduction</string>
-    <string name="introduction_detail">1. xxx\n2. xxx\n3. xxx</string>
+    <string name="introduction_detail">1. Built with Kotlin\n2. The homepage uses card design and supports both landscape and portrait orientations\n3. Includes FLog module for file logging, with customizable on/off switch, and easily integrates Timber for logging\n4. Includes FLog log viewer and log export module\n5. Includes a dark theme switch\n6. Includes a dynamic color switch\n7. Includes Preferences and PreferencesUtils</string>
 
     <string name="home">Home</string>
     <string name="manager">Manager</string>

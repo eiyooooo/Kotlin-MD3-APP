@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">MD3-example</string>
     <string name="introduction">应用简介</string>
-    <string name="introduction_detail">1. xxx\n2. xxx\n3. xxx</string>
+    <string name="introduction_detail">1. 使用Kotlin\n2. 主页使用卡片设计、支持横竖屏\n3. 包含FLog模块，文件日志，可自定开关，无脑使用Timber进行日志记录即可\n4. 包含FLog日志查看器及日志导出模块\n5. 包含深色主题开关\n6. 包含动态颜色开关\n7. 包含Preferences及PreferencesUtils</string>
 
     <string name="home">主页</string>
     <string name="manager">管理</string>
